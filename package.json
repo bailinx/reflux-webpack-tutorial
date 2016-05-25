@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/radishj/reflux-webpack-tutorial#readme",
   "dependencies": {
+    "ejs": "^2.4.2",
     "es6-promise": "^3.2.1",
     "isomorphic-fetch": "^2.2.1",
     "koa": "^1.2.0",
