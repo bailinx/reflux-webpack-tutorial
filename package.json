@@ -1,0 +1,39 @@
+{
+  "name": "reflux-webpack-tutorial",
+  "version": "1.0.0",
+  "description": "reflux tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radishj/reflux-webpack-tutorial.git"
+  },
+  "keywords": [
+    "relux",
+    "webpack",
+    "tutorial"
+  ],
+  "author": "radishj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radishj/reflux-webpack-tutorial/issues"
+  },
+  "homepage": "https://github.com/radishj/reflux-webpack-tutorial#readme",
+  "dependencies": {
+    "es6-promise": "^3.2.1",
+    "isomorphic-fetch": "^2.2.1",
+    "koa": "^1.2.0",
+    "koa-body": "^1.4.0",
+    "koa-favicon": "^1.2.1",
+    "koa-gzip": "^0.1.0",
+    "koa-route": "^2.4.2",
+    "koa-static": "^2.0.0",
+    "koa-views": "^4.1.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-router": "^2.4.1",
+    "reflux": "^0.4.1"
+  }
+}
