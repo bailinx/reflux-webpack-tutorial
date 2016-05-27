@@ -36,5 +36,9 @@
     "react-dom": "^15.1.0",
     "react-router": "^2.4.1",
     "reflux": "^0.4.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webpack": "^1.5.0"
   }
 }
